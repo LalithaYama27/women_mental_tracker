@@ -1,0 +1,7 @@
+{
+    "general": "Summarize the key findings from the General MSRH dataset.",
+    "local_stories": "Extract the main themes from the Local Stories dataset.",
+    "malaria": "Identify how malaria impacts maternal and reproductive health from the dataset.",
+    "screening": "Analyze the effectiveness of screening programs in the dataset.",
+    "postpartum_care": "Summarize the best practices for postpartum care from the dataset."
+}
